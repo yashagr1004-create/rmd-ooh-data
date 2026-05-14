@@ -1,0 +1,95 @@
+,,,,,,,,,,,,,,,,,,Chain name,(All),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Airport,,,,,,,,Hotel,,,,,,,,,,Hospitals,,,,,,,,,,Railways,,,,,,,,Roadways,,,,,,,,Offices & Banks,,,,,,,,CCD,,,,,,,,Chaayos,,,,,,,,Campus TOIC,,,,,,,,Campus ETIC,,
+Zone,City,Sum of TOI,Sum of ET,Sum of NBT,Sum of MT,TOTAL,,Dec 25 PO,,Cat,,,,,,,,Zone,City name, TOI , ET , NBT , MT ,TOTAL,,,,Zone,Train type, TOI , ET , NBT , MT ,TOTAL,,Zone,City name,Sum of TOI,Sum of ET,Sum of NBT,Sum of MT,TOTAL,,Zone,City name,TOI,ET,NBT,MT,TOTAL,,State,City,Sum of # TOI,Sum of # ET,Sum of # NBT,Sum of # MT,TOTAL,,Region,City,Sum of TOI,Sum of ET,Sum of NBT,Sum of MT,TOTAL,,Zone,City name,PO,,,,,,Zone,City name,PO
+East,Bagdogra, 30 ,,,, 30 ,,Zone,City name,< 3 Star,3 Star,4 Star,5 Star,TOTAL,,,,East,Bhubaneswar, 154 , 3 , -   , -   , 157 ,,,,East,Duronto," 1,335 ",,,," 1,335 ",,East,Guwahati, 20 ,,,, 20 ,,East,Bhubaneswar, 120 , 60 ,,, 180 ,,Bihar,Gaya,12,3,0,0, 15 ,,North,CHANDIGARH,10,5,5,5, 25 ,,EAST,Aizawl, 68 ,,,,,,EAST,Angul, -   
+East,Bhubaneswar, 225 , 50 ,,, 275 ,,East,Angul, -   , 27 ,,, 27 ,,,,East,Cuttack, 116 , 19 ,,, 135 ,,,,East,Rajdhani," 2,205 ", -   , -   ,," 2,205 ",,East,Kolkata , 52 , 10 ,,, 62 ,,East,Bokaro, 35 , 25 ,,, 60 ,,,Patna,24,6,0,0, 30 ,,,FBD,6,3,3,2, 14 ,,EAST,Angul, -   ,,,,,,EAST,Bakhtiyarpur, -   
+East,Kolkata," 1,400 ", 50 ,,," 1,450 ",,East,Balasore, 6 , 1 ,,, 7 ,,,,East,Guwahati, 38 , -   ,,, 38 ,,,,East,Shatabdi, 951 , 50 ,,," 1,001 ",,North,Bhopal, -   , -   , -   ,, -   ,,East,Guwahati, 31 ,,,, 31 ,,Goa,Goa,12,3,0,0, 15 ,,,GGN,48,24,24,17, 113 ,,EAST,Bargarh, 57 ,,,,,,EAST,Baragarh, 2 
+East,Patna, 150 , 25 ,,, 175 ,,East,berhampur, 6 ,,,, 6 ,,,,East,Kolkata , 867 , 72 ,,, 939 ,,,,East,Vande Bharat," 5,899 ", 62 ,,," 5,961 ",,North,CHANDIGARH, 80 , -   , -   ,, 80 ,,East,Jamshedpur, 21 , 9 ,,, 30 ,,Gujarat,Ahmedabad,36,9,0,0, 45 ,,,GZB,8,4,4,4, 20 ,,EAST,Bargarh , 30 ,,,,,,EAST,Bargarh, 2 
+East,Ranchi, 120 ,,,, 120 ,,East,Bhubaneswar, 92 , 25 , 3 , 56 , 176 ,,,,East,Patna, 85 , 5 ,,, 90 ,,,,North,Duronto," 1,311 ", -   , 69 ,," 1,380 ",,North,Delhi," 1,690 ", 12 , 111 ,," 1,813 ",,East,Kolkata, 678 , 214 ,,, 892 ,,,Rajkot,12,3,0,0, 15 ,,,KARNAL,2,1,1,1, 5 ,,EAST,Baripada, 5 ,,,,,,EAST,Berhampur, 32 
+East ,Guwahati, 200 ,,,, 200 ,,East,Bokaro,,, 15 ,, 15 ,,,,East,Rourkela, 5 , -   ,,, 5 ,,,,North,Rajdhani," 5,493 ", 353 ," 1,752 ",," 7,598 ",,North,Jaipur, -   , -   , -   ,, -   ,,East,Patna, 88 , 30 ,,, 118 ,,,Surat,12,3,0,0, 15 ,,,MUM,2,1,1,1, 5 ,,EAST,Berhampur, 63 ,,,,,,EAST,Bhubaneswar, 680 
+North,Bhopal, 300 , 25 , -   ,, 325 ,,East,chilika,,,, 25 , 25 ,,,,North,Bhopal, 36 , 4 , -   ,, 40 ,,,,North,Shatabdi," 6,462 ", 812 ," 1,769 ",," 9,043 ",,North,Lucknow, 5 , 80 , 10 ,, 95 ,,East,Ranchi, 84 , 46 ,,, 130 ,,,Vadodara,12,3,0,0, 15 ,,,ND,56,28,28,20, 132 ,,EAST,Bhadrak, 155 ,,,,,,EAST,Bihta, -   
+North,Chandigarh, 30 , 10 ,,, 40 ,,East,Cuttack, 34 , 42 ,,, 76 ,,,,North,CHANDIGARH, 20 , 5 , -   ,, 25 ,,,,North,Tejas, 878 , 72 , 213 ,," 1,163 ",,North,UPC, 13 , 11 , -   ,, 24 ,,North,Bhopal, 81 , 14 , -   ,, 95 ,,Jharkhand,Bokaro,12,3,0,0, 15 ,,,NOIDA,30,15,15,14, 74 ,,EAST,Bhubaneswar, 400 ,,,,,,EAST,Bodhgaya, 7 
+North,Dehradun, 2 , 2 ,,, 4 ,,East,Cuttack-Badambari, 4 ,,,, 4 ,,,,North,Delhi," 2,462 ", 336 ," 1,358 ",," 4,156 ",,,,North,Vande Bharat," 9,907 "," 1,065 "," 2,228 ",," 13,201 ",,South 1,Bangalore," 1,895 ",,,," 1,895 ",,North,CHANDIGARH, 60 , 80 , -   ,, 140 ,,,Dhanbad,12,3,0,0, 15 ,,,PANCHKULA,4,2,2,1, 9 ,,EAST,Chatrapur, 100 ,,,,,,EAST,Cuttack, -   
+North,Delhi," 6,529 "," 1,715 "," 1,170 ",," 9,414 ",,East,Dhanbad,,, 15 ,, 15 ,,,,North,Jaipur, 50 , 5 , -   ,, 55 ,,,,South 1,Rajdhani, 100 ,,,, 100 ,,South 2,(blank),,,,, -   ,,North,Delhi," 6,605 "," 3,673 "," 4,072 ",," 14,350 ",,,Jamshedpur,48,12,0,0, 60 ,,South,BLR,50,25,,, 75 ,,EAST,Cuttack, -   ,,,,,,EAST,Dhanbad, -   
+North,Jaipur, 600 ,,,, 600 ,,East,gopalpur, 4 ,,, 2 , 6 ,,,,North,Lucknow, 55 , 3 , 35 ,, 93 ,,,,South 1,Shatabdi," 1,500 ",,,," 1,500 ",,West 1,Mumbai," 3,822 ", 235 , 3 , 224 ," 4,284 ",,North,Jaipur, 260 , 162 , -   ,, 422 ,,Karnataka,Bangalore,475,125,0,0, 600 ,,,CHENNAI,6,3,,, 9 ,,EAST,Dhanbad, 1 ,,,,,,EAST,Gunupur, 175 
+North,Kanpur, 285 , 25 , 90 ,, 400 ,,East,Guwahati, 3 , 69 , 17 , 108 , 197 ,,,,North,UPC, 177 , 120 , -   ,, 297 ,,,,South 1,Vande Bharat," 5,600 ",,,," 5,600 ",,West2,Pune, 700 , -   ,, 240 , 940 ,,North,Lucknow, 89 , 57 , 7 ,, 153 ,,Maharashtra,Mumbai,144,72,72,72, 360 ,,,HYD,6,3,,, 9 ,,EAST,Dimapur, 2 ,,,,,,EAST,Jamshedpur, 130 
+North,Lucknow, 455 , 85 , 230 ,, 770 ,,East,Jamshedpur,, 16 , 47 ,, 63 ,,,,South 1,Bangalore City, 988 , 10 ,,, 998 ,,,,South2,Duronto, 400 , 1 , -   , -   , 401 ,,Grand Total,," 8,277 ", 348 , 124 , 464 ," 9,213 ",,North,UPC, 197 , 230 , -   ,, 427 ,,,Nagpur,72,18,0,18, 108 ,,West,MUM,56,28,28,28, 140 ,,EAST,Guwahati, 188 ,,,,,,EAST,Jharsuguda,
+North,Prayagraj, 195 , 10 , 100 ,, 305 ,,East,Jharsuguda, 11 ,,,, 11 ,,,,South 1,KOCHI, 68 , -   ,,, 68 ,,,,South2,Rajdhani, 800 , 1 , -   , -   , 801 ,,,,,,,,,,South 1,Bangalore, 10 , 10 ,,, 20 ,,,Nashik ,24,6,6,6, 42 ,,,PUNE,8,4,4,4, 20 ,,EAST,Imphal, 29 ,,,,,,EAST,Kendrapada, 6 
+North,Varanasi, 285 , 45 ,,, 330 ,,East,Kaziranga,,, 25 ,, 25 ,,,,South 1,Mysore City, 10 , -   ,,, 10 ,,,,South2,Shatabdi," 2,100 ", 4 , -   , -   ," 2,104 ",,,,,,,,,,South 2,Chennai, 581 , 18 ,,, 599 ,,,Palghar,6,3,3,3, 15 ,,,THANE,2,1,1,1, 5 ,,EAST,Itanagar, 30 ,,,,,,EAST,Kolkata & Up Country , 350 
+South I,Bangalore," 8,000 "," 1,200 ", -   , -   ," 9,200 ",,East,Kolkata, 34 , 830 , 79 , 613 ," 1,555 ",,,,South 1,ROK Hubli, 27 ,,,, 27 ,,,,South2,Tejas, 400 , 1 , -   , -   , 401 ,,,,,,,,,,South 2,Chennai ,,,,, -   ,,North,Delhi,711,193,124,0," 1,028 ",,Grand Total,,294,147,116,98, 655 ,,EAST,Jajpur Road, 82 ,,,,,,EAST,Nayagarh, -   
+South I,COCHIN, 500 , -   , -   , -   , 500 ,,East,Paradip,, 43 ,,, 43 ,,,,South 1,ROK-Mangalore, 35 ,,,, 35 ,,,,South2,Vande Bharat," 8,840 ", 10 , -   , -   ," 8,850 ",,,,,,,,,,South 2,Coimbatore ,,,,, -   ,,,(blank),6,3,3,, 12 ,,,,,,,,,,EAST,Jamshedpur, 16 ,,,,,,EAST,Paradeep, 10 
+South I,Mangalore, 250 , -   , -   , -   , 250 ,,East,Patna, 1 , 96 , 78 , 5 , 180 ,,,,South 1,ROK-Mysore, 32 ,,,, 32 ,,,,West 2,Duronto, 952 , -   , -   , 50 ," 1,002 ",,,,,,,,,,South 2,Hyderabad, 204 , 149 ,,, 353 ,,North East,Guwahati,36,,0,0, 36 ,,,,,,,,,,EAST,Jharsuguda, -   ,,,,,,EAST,Paralakhemundi, 1 
+South I,TRIVANDRUM, 200 , -   , -   , -   , 200 ,,East,puri, 82 , 46 ,, 94 , 222 ,,,,south 2,Chennai , 901 , 15 ,,, 916 ,,,,West 2,Rajdhani, 729 , -   , -   , -   , 729 ,,,,,,,,,,South 2,Madurai,,,,, -   ,,,Shillong,12,,0,0, 12 ,,,,,,,,,,EAST,Kendrapada, 6 ,,,,,,EAST,Patna, 55 
+South II,Chennai," 2,860 "," 1,000 ",,," 3,860 ",,East,Ranchi,, 35 , 85 , 40 , 160 ,,,,West 1,Indore, 182 , 2 ,,, 184 ,,,,West 2,Shatabdi," 1,200 ",,, 50 ," 1,250 ",,,,,,,,,,South 2,Vijayawada, 35 ,,,, 35 ,,Orissa,Kolkata,48,12,0,0, 60 ,,,,,,,,,,EAST,Keonjhar, 123 ,,,,,,EAST,Ranchi, 20 
+South II,Coimbatore, 100 , -   ,,, 100 ,,East,Sambalpur, 5 ,,,, 5 ,,,,West 1,Mumbai," 9,357 "," 1,361 ", 421 , 932 ," 12,071 ",,,,West 2,Tejas, 840 , 10 ,,, 850 ,,,,,,,,,,South 2,Vizag, 63 ,,,, 63 ,,West Bengal,Kolkata,336,84,0,0, 420 ,,,,,,,,,,EAST,Kolkata ," 2,116 ",,,,,,EAST,Rourkela, 22 
+South II,Hyderabad," 1,840 "," 1,000 ",,," 2,840 ",,East,Shillong, 7 , 14 , 39 , 25 , 85 ,,,,West 2,Ahmedabad, 184 , 19 , -   , -   , 203 ,,,,West 2,Vande Bharat," 7,265 ", -   , -   , 269 ," 7,534 ",,,,,,,,,,West 1,Goa, 116 , 53 ,,, 169 ,,Grand Total,,2062,564,208,99," 2,933 ",,,,,,,,,,EAST,Konark, -   ,,,,,,EAST,Sampalpur, 41 
+South II,Madurai, 900 ,,,, 900 ,,East,Silguri,, 4 ,,, 4 ,,,,West 2,Nagpur, 32 , -   , -   , -   , 32 ,,,,Grand Total,," 65,167 "," 2,441 "," 6,031 ", 369 ," 74,008 ",,,,,,,,,,West 1,Mumbai," 10,516 "," 6,308 ", 572 , 752 ," 18,148 ",,,,,,,,,,,,,,,,,,EAST,Paradeep, 35 ,,,,,,EAST,Tensa, -   
+South II,Trichy, 900 ,,,, 900 ,,North,Bhopal, 74 , 28 , 45 , 68 , 215 ,,,,West 2,PUNE, 468 , 113 ,, 268 , 849 ,,,,,,,,,,,,,,,,,,,,West 2,Ahmedabad, 154 , 66 ,,, 220 ,,,,,,,,,,,,,,,,,,EAST,Patna, 96 ,,,,,,North,ALLAHABAD,
+South II,Vijayawada, 350 , -   ,,, 350 ,,North,CHANDIGARH,, 24 , 149 , 49 , 222 ,,,,West 2,Raipur, 20 , 10 , -   , -   , 30 ,,,,,,,,,,,,,,,,,,,,West 2,Nagpur, 505 , 59 ,,, 564 ,,,,,,,,,,,,,,,,,,EAST,Raksin, 13 ,,,,,,North,CHANDIGARH,
+South II,Visakhapatnam, 350 , -   ,,, 350 ,,North,Delhi, 395 , 276 , 124 ," 1,327 "," 2,122 ",,,,West 2,Surat, 60 , -   , -   , -   , 60 ,,,,,,,,,,,,,,,,,,,,West 2,Pune, 817 , 279 ,, 389 ," 1,485 ",,,,,,,,,,,,,,,,,,EAST,Ranchi, 54 ,,,,,,North,Delhi,
+West I,Aurangabad,,,,, -   ,,North,Jaipur, 148 , 136 , 122 , 417 , 823 ,,,,West 2,Vadodara, 10 , -   , -   , -   , 10 ,,,,,,,,,,,,,,,,,,,,West 2,Raipur, 272 , 8 ,,, 280 ,,,,,,,,,,,,,,,,,,EAST,Rourkela, 34 ,,,,,,North,Faridabad,
+West I,GOA," 1,150 ", 350 ,,," 1,500 ",,North,Lucknow, 24 , 134 , 131 , 130 , 419 ,,,,Grand Total,," 16,439 "," 2,102 "," 1,814 "," 1,200 "," 21,555 ",,,,,,,,,,,,,,,,,,,,Grand Total,," 21,622 "," 11,550 "," 4,651 "," 1,141 "," 38,964 ",,,,,,,,,,,,,,,,,,EAST,Sambalpur, 297 ,,,,,,North,Ghaziabad,
+West I,Indore, 800 , 250 ,,," 1,050 ",,North,UPC, 480 , 503 , 30 , 54 ," 1,067 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,Shillong, 5 ,,,,,,North,Gurgaon,
+West I,Mumbai," 15,600 "," 5,720 "," 1,200 ", 800 ," 23,320 ",,South 1,Bangalore, 337 , 780 , 427 ," 1,034 "," 2,578 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,Siliguri, 11 ,,,,,,North,KANPUR,
+West I,Nashik, 250 , 50 ,, 250 , 550 ,,South 1,CALICUT,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,Sundergarh, -   ,,,,,,North,LUCKNOW,
+West II,Ahmedabad," 2,900 ", 800 ,,," 3,700 ",,South 1,KOCHI,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,Tensa, 8 ,,,,,,North,Noida,
+West II,BARODA, 400 ,,,, 400 ,,South 1,KOTTAYAM,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,Tezpur, 12 ,,,,,,North,RAWATPUR,
+West II,NAGPUR, 800 , 100 ,, 300 ," 1,200 ",,South 1,ROK -Hubli,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,EAST,WB, 185 ,,,,,,North,SITAPUR,
+West II,PUNE,,,, 300 , 300 ,,South 1,ROK -Mangalore,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,ALLAHABAD,,,,,,,South 1,Bangalore," 2,231 "
+West II,RAIPUR, 200 ,,,, 200 ,,South 1,ROK -Mysore,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,BHOPAL,,,,,,,South 2,Chennai,
+West II,RAJKOT, 150 ,,,, 150 ,,South 2,Chennai ,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,CHANDIGARH,,,,,,,South 2,Hydearbad,
+West II,SURAT, 200 ,,,, 200 ,,South 2,Coimbatore ,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Delhi,,,,,,,West 1,Aurangabad,
+Grand Total,," 49,506 "," 12,512 "," 2,790 "," 1,650 "," 66,458 ",,South 2,Hyderabad,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Ghaziabad,,,,,,,West 1,Canacona, 1 
+,,,,,,,,South 2,Madurai ,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,GORAKHPUR,,,,,,,West 1,Indore, 47 
+,,,,,,,,South 2,Trichy ,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Gurgaon,,,,,,,West 1,Margaon, -   
+,,,,,,,,South 2,Vijayawada,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Jaipur,,,,,,,West 1,Mumbai, 546 
+,,,,,,,,South 2,Vijayawada/Guntur,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,KANPUR,,,,,,,West 1,Nashik,
+,,,,,,,,South 2,Vizag,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,LUCKNOW,,,,,,,West 1,Saquelim, 28 
+,,,,,,,,West 1,Aurangabad,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Noida,,,,,,,West 1,Vasco, 2 
+,,,,,,,,West 1,Goa,,,, 917 , 917 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,SANDILA,,,,,,,West-2,Ahmedabad," 1,079 "
+,,,,,,,,West 1,Indore,,,, 221 , 221 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,SHIVPURI ,,,,,,,West-2,Anand, 1 
+,,,,,,,,West 1,Mumbai,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,North,Sonipat,,,,,,,West-2,BC-1,
+,,,,,,,,West 1,Nashik,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 1,Bangalore," 12,120 ",,,,,,West-2,BHUSARI COLONY,
+,,,,,,,,West 2,Ahmedabad,,,, 496 , 496 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 1,ROK -Mysore,,,,,,,West-2,DECCAN,
+,,,,,,,,West 2,Nagpur,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 1,ROK-Hubli,,,,,,,West-2,Gandhinagar, -   
+,,,,,,,,West 2,Pune,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 1,ROK-Mangalore,,,,,,,West-2,KALEWADI,
+,,,,,,,,West 2,Raipur ,,,,, -   ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Chennai,,,,,,,West-2,KOPARGAON,
+,,,,,,,,West 2,Rajkot,,,, 58 , 58 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Coimbatore,,,,,,,West-2,NIGDI,
+,,,,,,,,West 2,Surat,,,, 105 , 105 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Erode,,,,,,,West-2,SOMATANE PHATA,
+,,,,,,,,West 2,Vadodara,,,, 233 , 233 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Hydearbad,,,,,,,West-2,Surat, 18 
+,,,,,,,,Grand Total,," 1,747 "," 3,129 "," 1,431 "," 6,077 "," 12,384 ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Madurai,,,,,,,Grand Total,," 5,486 "
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Pondichery,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Trichy,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,South 2,Vellore,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Aurangabad,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Burhanpur," 1,483 ",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Canacona, 38 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Indore, 380 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Mumbai," 6,183 ",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Nashik,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Panjim, -   ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Ponda, -   ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Ratlam, -   ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Saquelim, 14 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,sendhewa , -   ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Ujjain, 65 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Valpoi, 27 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 1,Vasco, 20 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Ahmedabad," 2,518 ",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Anand, 17 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,BARAMATI,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,BELHE/ALEPHATA,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,BHIGWAN,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,BHUSARI COLONY,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Chandrapur, 115 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Junagadh, -   ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,KALEWADI,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,KOPARGAON,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Nagpur, 803 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Raipur, 232 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Rajkot, 850 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,SATARA,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Surat, 745 ,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,TALEGAON,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,West 2,Vadodara," 4,105 ",,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grand Total,," 33,935 ",,,,,,,,
